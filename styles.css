@@ -1,0 +1,19 @@
+#page-wrapper{
+    display: flex;
+    height: 100vh;
+    width:100%;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+#main{
+    overflow: auto;
+    width: 100%;
+    height: 100vh;
+}
+
+#Sidebar{
+    overflow:auto;
+    height: 100vh;
+}
