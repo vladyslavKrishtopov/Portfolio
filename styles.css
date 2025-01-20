@@ -6,18 +6,24 @@
     align-items: flex-start;
     flex-wrap: nowrap;
 }
-
+.card{
+    height: 28rem;
+}
+.card-img-top{
+    height: 10rem;
+}
 .section-title{
     padding-bottom: 2rem;
 }
 
 #main{
     overflow: auto;
-    width: 100%;
+    width: 85%;
     height: 100vh;
 }
 
 #Sidebar{
+    width: 15%;
     overflow:auto;
     height: 100vh;
 }
