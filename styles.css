@@ -1,3 +1,4 @@
+
 #page-wrapper{
     display: flex;
     height: 100vh;
@@ -26,4 +27,7 @@
     width: 15%;
     overflow:auto;
     height: 100vh;
+}
+*, html{
+    scroll-behavior:smooth !important;
 }
